@@ -31,3 +31,5 @@ fw.adsafeprotected.com
 static.adsafeprotected.com
 dt.adsafeprotected.com
 samsung.demdex.net
+sb.scorecardresearch.com
+trc.taboola.com
