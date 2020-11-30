@@ -5,3 +5,13 @@
 # ===================================================================
 s0.2mdn.net
 securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+ade.googlesyndication.com
+securepubads.g.doubleclick.net
+c.amazon-adsystem.com
+securepubads.g.doubleclick.net
+adservice.google.com
+bid.g.doubleclick.net
+googleads4.g.doubleclick.net
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.com
